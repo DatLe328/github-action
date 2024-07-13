@@ -2,9 +2,9 @@
     "name": "github-action",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "https://github.com/DatLe328/github-action.git",
+    "repository": "git@github.com:DatLe328/github-action.git",
     "scripts": {
-        "build": "echo 'build'",
+        "build": "echo 'built'",
         "test": "node ./tests/dummy.js"
     },
     "author": "DatLe",
