@@ -1,0 +1,12 @@
+{
+    "name": "github-action",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/DatLe328/github-action.git",
+    "scripts": {
+        "build": "echo 'build'",
+        "test": "node ./tests/dummy.js"
+    },
+    "author": "DatLe",
+    "license": "MIT"
+}
