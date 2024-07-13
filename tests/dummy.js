@@ -1,5 +1,5 @@
 function dummyTest() {
-    console.log("Test are passing");
+    throw new Error("Test failed");
 }
 
 dummyTest();
